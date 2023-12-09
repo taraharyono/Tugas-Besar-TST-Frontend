@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'perfumepal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_991387394C714BB18545A63F683049D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69014FE2601F4AEFA40B87FABD046F9E }}
           package: .
